@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm Nehal Elsamoly 👋+😎;" />
+    <img src="https://th.bing.com/th/id/OIP.arnBUHcuP4BYgE_GfAy_5AAAAA?w=161&h=162&rs=1&pid=ImgDetMain=Hi+There!+👋;+I'm Nehal Elsamoly 👋+😎;" />
 </div>
 
 <br>
